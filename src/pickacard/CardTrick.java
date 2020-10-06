@@ -80,7 +80,8 @@ import java.util.*;
         value = in.nextInt();
         System.out.println("Enter the Suit:");
         suit = in.nextLine();
-        System.out.println("This is in array list");
+       // System.out.println("This is in array list");
+         System.out.println("This is Lucky Cards list");
         }
  }
 
