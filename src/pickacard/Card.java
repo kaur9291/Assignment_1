@@ -10,6 +10,7 @@ package pickacard;
  * @author dancye
  * @author Paul Bonenfant
  */
+
 public class Card {
 
    private String suit; //clubs, spades, diamonds, hearts
